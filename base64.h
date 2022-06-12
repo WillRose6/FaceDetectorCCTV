@@ -3,6 +3,9 @@
 //  Version: 2.rc.08 (release candidate)
 //
 
+//DISCLAIMER: This, "bmpfromocvpanel", and the "convertmattowxbmp" classes were not written by me - they was taken from the internet as a part of a converter from OpenCV Mat to wxBitmap.
+//I did however rework another part of what I was provided by said converter in order to display a webcam to a wxWidgets UI while utilising a separate thread.
+
 #ifndef BASE64_H_C0CE2A47_D10E_42C9_A27C_C883944E704A
 #define BASE64_H_C0CE2A47_D10E_42C9_A27C_C883944E704A
 

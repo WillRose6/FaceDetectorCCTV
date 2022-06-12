@@ -7,7 +7,7 @@
 // Licence:     wxWindows licence
 ///////////////////////////////////////////////////////////////////////////////
 
-//DISCLAIMER: This, and the "bmpfromocvpanel" classes were not written by me - they was taken from the internet as a part of a converter from OpenCV Mat to wxBitmap.
+//DISCLAIMER: This, "base64", and the "bmpfromocvpanel" classes were not written by me - they was taken from the internet as a part of a converter from OpenCV Mat to wxBitmap.
 //I did however rework another part of what I was provided by said converter in order to display a webcam to a wxWidgets UI while utilising a separate thread.
 
 #ifndef CONVERTMATTOWXBMP_H
